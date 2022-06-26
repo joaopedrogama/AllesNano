@@ -19,3 +19,13 @@
     margin-left: 5%;
     margin-right: 5%;
 }
+
+.bg-image-blur {
+
+  filter: blur();
+  -webkit-filter: blur(2px);
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
