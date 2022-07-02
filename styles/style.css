@@ -13,6 +13,10 @@
     color: #FE8D00;
 }
 
+.text-secondary-color {
+    color: #02084B;
+}
+
 .secondary-color {
     background-color: #02084B
 }
@@ -30,4 +34,18 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.card-produtos {
+    border: solid 2px #02084B;
+}
+
+.background-card-secondary {
+    background-color: #02084B;
+    color: aliceblue;
+}
+
+.background-card-primary {
+    background-color: #FE8D00;
+    color: aliceblue;
 }
